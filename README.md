@@ -15,3 +15,13 @@ get / formalized data and find a utility ...
     - Python ? 
 
 -- 
+https://powerbi.microsoft.com/en-us/blog/pythonblogepisode1/
+https://github.com/mohaali/PowerBIExamples/tree/master/Python%20blog%20post%201%20-%20A%20new%20hope
+
+
+## Python libraries to try out: 
+- Seaborn 
+- Altair 
+- Scikit-Learn
+- FlashText === regex
+* PyFlux & Pendulum 
